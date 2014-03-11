@@ -1,7 +1,7 @@
 ProjDat Buzzwords
 =================
 
-Folk siger heletiden at man vil eller skal lave en liste over buzzwords. De siger også at man skal lære Git. Så hvorfor ikke slå to fluger med et smæk. Lad os sammen lave en liste over buzzwords på GitHub!
+Folk siger hele tiden at man vil eller skal lave en liste over buzzwords. De siger også at man skal lære Git. Så hvorfor ikke slå to fluer med et smæk. Lad os sammen lave en liste over buzzwords på GitHub!
 
 Sådan gør du
 ============
