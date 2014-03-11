@@ -1,46 +1,11 @@
-ProjDat Buzzwords
+Misc. buzzwords
 =================
-
-```
-# Modelling
-To build a model reprensenting a complex system in order to easier understand it.
-
-# OO software development
-Typically includes the following activities:
-
-- Requirements elicitation
-- Analysis
-- System design
-- OO design
-- Implementation
-- Testing
-
-# Knowledge acquisition
-Learning stuff about something (non linear)
-
-# Risk based development
-???. Seen on page 7.
-
-# Issue-base development
-???. Seen on page 7.
-
-# Rationale
-Understand the context in which design decisions were made. This will make it easier to change the system later on. Simply understanding how the system works is not enough.
 
 # Anvendelsesområde (Eng.: Application Domain)
 Brugens side af et problem
 
 # Problemområde (Eng.: Solution Domain)
 Måden problemet skal løses
-
-# Kravspecifikation (Eng.: ?)
-...
-
-# Funktionelle krav (Eng.: ?)
-Specifikation af en bestemt funktion i et stykke software - Smid en exception ved fejl
-
-# Ikke-funktionelle krav (Eng.: constraint)
-Overordnede krav - “Der må ikke være alt for mange elementer i start menuen”
 
 # Extreme Programming
 Programmerings metodik opfundet af bl.a. Kent Beck. De primære ideer er:
@@ -59,7 +24,7 @@ Programmerings metodik opfundet af bl.a. Kent Beck. De primære ideer er:
 - Coding standards
 
 # Actor
-Any entity that interacts with the system, could be a user, another system,
+Any external entity that interacts with the system, could be a user, another system,
 the systems environment etc.
 
 # Use case
@@ -94,4 +59,3 @@ It could describe how a user instance interacts with an actual watch instance.
 
 # Statechart diagrams
 Represent behavior of a single object with interesting dynamic behavior
-```
