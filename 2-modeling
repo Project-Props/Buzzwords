@@ -37,3 +37,6 @@ It could describe how a user instance interacts with an actual watch instance.
 
 ## Statechart diagrams
 Represent behavior of a single object with interesting dynamic behavior
+
+## Other OO words
+Other words from OO would probably be good to know. These are things like inhertiance, composition, instance, class, superclass, etc...
