@@ -1,4 +1,167 @@
 Buzzwords for chapter 3
 =======================
 
-Stuff will appear here at some point...
+## Work product aka deliverables
+Any item produced by the project, such as a piece of code, a model or a document.
+
+## Schedule
+Specifies when work on the project should be accomplished.
+
+## Participant aka project member
+Any person participating in the project.
+
+## Task
+The work performed by a project participant ro create a work product.
+A well defined assignment for a role.
+
+# Project definition phase
+Initial understanding of the problems and software achitecture.
+
+# Project start phase
+The project manager sets up the project infrastructure, hires participants etc...
+
+# Project steady state phase
+The phase in which the participants develop the system.
+
+# Project termination phase
+The outcome of the project is delivered to the client
+
+----------------
+Planned meetings
+
+## Problem inspection
+The developers gather information from the problem statement and clients.
+
+## Status meetings
+Teams review their progress.
+
+## Peer reviews
+Team members find defects in preliminary work projects.
+
+## Client and project revuews
+The client and project members review the work.
+
+## Releases
+Release...
+
+------------------
+Unplanned meetings
+
+## Requests for clarification
+Requesting specific information about the system.
+
+## Requests for change
+Participants describe problems encounrtered in the system or new features.
+
+## Issue resolution
+Identifying a conflict between different stakeholders and a solution is agreed upon.
+
+--------------------
+Types of interaction
+
+# Reporting
+Used for reporting status information. Such as an API being ready.
+
+# Decision
+Used for propagating decisions.
+
+# Communication
+Used for all other types of interactions.
+
+---
+
+# Hierarchical
+Both status and decision information are unidirectional
+
+# Reporting structure
+The structure of the stauts and decision information flow
+
+# Liason
+A developer who is responsible for shuttling information back and forth
+
+# Cross-functional teams
+Teams that do not work directly on a subsystem,
+but rather work on a task that corsses the subsystem team organization.
+
+-----
+Roles
+
+# Management roles
+Roles concerned with with the organization and execution of the project within constraints.
+
+# Development roles
+Roles concertned with specifying, designing, and constructing subsystems.
+
+# Cross-functional roles
+Coordination among teams
+
+# Consultant roles
+Provide temporary support in areas where participants lack expertise.
+
+## Application domain specialist
+Is responsible for providing domain knowledge about a specific functional area of the system.
+Has detailed knowledge of a specific area.
+
+## Solution domain specialist
+responsible for providing knowledge about solutions to implement the system.
+This can include development methods, the process, implementation technology etc.
+
+---
+
+# Assignment
+Groups fo related tasks
+
+# Work product
+A tangible item that results from a task
+
+# Schedule
+A mapping of tasks unto time.
+
+# PERT chart
+A chart of the schedule.
+
+---------------------
+Planned communication
+
+# Planned communication events
+Schedules points in time druing which participants exchange information on a specific topic
+or review a work product.
+
+# Problem presentation
+Presentation of the problem statement that describes the problem,
+the application, domain and the desired functionality.
+It also contains non-functional requirements.
+See page 90.
+
+# Client reviews
+For the client to asses the progress of the development
+and for developers to confirm or change the requirements of the system.
+
+# Project reviews
+For the project manager to assess status and for teams to review subsystem interfaces.
+
+# Code inspections/walkthrough
+To increase the quality of the code.
+
+# Status reviews
+Focuses on tasks, unlike client and project reviews (they focus on the system).
+
+# Brainstorming
+Generate a large number of solutions to a problem.
+
+# Release
+Make a work product abailable to other project participants
+
+# Postmortem reviews
+Focus onextracting lessons from the development team once the software is delivered.
+
+------------------------
+Communication mechanisms
+
+# Synchronous
+When both sender and receiver has to be present (smoke signals)
+
+# Asynchronous
+When its not synchronous (email).
+
+See approx. page 100 for more types of meetings.
