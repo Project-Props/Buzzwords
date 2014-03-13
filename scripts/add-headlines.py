@@ -1,6 +1,12 @@
 import glob
 import re
 
+"""
+This script will run through all files who's
+name starts with a digit and are empty. It will then
+add headline to each of those
+"""
+
 def starts_with_digit(string):
     return bool(re.search("^\d+", string))
 
