@@ -11,9 +11,8 @@ Describes something that yields a visible result for an actor.
 Focuses on completely and describing all possible cases.
 
 ## Scenario
-An instance of use case that describes a specific set of actions.
-Focuses on understandability and illustrating common cases.
-Has a name, actor instances and flow of events.
+A narrative description of what people do and experience as they try to make use of a computer systme and applications.
+A concrete, focused, informal, description of a single feature of the system from the viewport of a single actor.
 
 ## Abstraction
 To ignore unessential details for focus on whats really important
