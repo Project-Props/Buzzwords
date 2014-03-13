@@ -6,11 +6,10 @@ Any external entity that interacts with the system, could be a user, another sys
 the systems environment etc.
 
 ## Use case
-Focuses on the behavior of the system from an external point of view.
-Describes something that yields a visible result for an actor.
-Focuses on completely and describing all possible cases.
+A use case specifies all possible scenanrios for a given piece of functionality.
 
 ## Scenario
+Instance of a usecase.
 A narrative description of what people do and experience as they try to make use of a computer systme and applications.
 A concrete, focused, informal, description of a single feature of the system from the viewport of a single actor.
 
