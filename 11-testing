@@ -125,10 +125,13 @@ TODO: write something
 TODO: write something
 
 ## Test case
-TODO: write something
+The tests themselves
 
 ## Test component
 TODO: write something
+
+## Test case specification
+ Test Case Specification describes the purpose of a specific test, identifies the required inputs and expected results, provides step-by-step procedures for executing the test, and outlines the pass/fail criteria for determining acceptance.
 
 ## Test components
 TODO: write something
@@ -143,7 +146,7 @@ TODO: write something
 TODO: write something
 
 ## Test planning
-TODO: write something
+Allocates resources and schedules the testing. Who does the testing and when do they do it?
 
 ## Test stub
 TODO: write something
@@ -173,4 +176,3 @@ TODO: write something
 TODO: write something
 
 ## Wizard of oz prototype
-TODO: write something
